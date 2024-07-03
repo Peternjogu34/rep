@@ -1,0 +1,22 @@
+import turtle
+peter = turtle.Turtle()
+peter.getscreen().bgcolor("#yellow")
+
+
+peter.forward(200)
+peter.left(216)
+peter.forward(200)
+peter.left(216)
+peter.forward(200)
+peter.left(216)
+peter.forward(200)
+peter.left(216)
+peter.forward(200)
+peter.left(216)
+
+
+
+
+
+turtle.done()
+
